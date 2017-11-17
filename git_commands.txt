@@ -1,5 +1,5 @@
 #Pull from root master
-git pull origin https://github.com/TrieTech/ProjectMatter.git
+git pull https://github.com/TrieTech/ProjectMatter.git master
 
 #Pull from local fork
 #Remote should be set to https://github.com/user_name/ProjectMatter.git
