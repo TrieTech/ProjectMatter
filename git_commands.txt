@@ -1,0 +1,21 @@
+#Pull from root master
+git pull origin https://github.com/TrieTech/ProjectMatter.git
+
+#Pull from local fork
+#Remote should be set to https://github.com/user_name/ProjectMatter.git
+git pull origin master
+
+#Adding all items to be commited
+git add .
+
+#Add an individual file to have a unique commit message
+git add file_name
+
+#Commiting added files
+git commit -m "commit message"
+
+#Push to local fork
+#Remote should be set to https://github.com/user_name/ProjectMatter.git
+git push origin master
+
+#Note: All pull requests are done through your local fork on https://github.com
